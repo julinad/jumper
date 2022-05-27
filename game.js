@@ -19,9 +19,9 @@ let backgroundImg;
 
 function preload() {
 	backgroundImg = loadImage("https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Graph-paper.svg/1024px-Graph-paper.svg.png");
-	jumperLeftImg = loadImage("assets/duck.png");
-	jumperRightImg = loadImage("https://raw.githubusercontent.com/JasonMize/coding-league-assets/master/doodle-jump-doodler-right.png");
-	platformImg = loadImage('assets/leaf.png');
+	jumperLeftImg = loadImage("https://i.postimg.cc/02dpFnSW/duck.png");
+	// jumperRightImg = loadImage("https://raw.githubusercontent.com/JasonMize/coding-league-assets/master/doodle-jump-doodler-right.png");
+	platformImg = loadImage("https://i.postimg.cc/W1NMvZ62/leaf.png");
 }
 
 function setup(){
